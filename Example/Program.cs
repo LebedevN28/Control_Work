@@ -37,5 +37,5 @@ for (int i = 0; i < n; i++)
 }
 string[] array2 = new string[array1.Length];
 SecondArrayWithIF(array1, array2);
-Console.WriteLine("Массив строк, длина которых не более 3 символов: ");
+Console.WriteLine("чМассив строк, длина которых не более 3 символов: ");
 PrintArray(array2);
