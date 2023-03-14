@@ -1,0 +1,15 @@
+/Users/nikitalebedev/Desktop/Control_Work/Example/bin/Debug/net7.0/Example
+/Users/nikitalebedev/Desktop/Control_Work/Example/bin/Debug/net7.0/Example.deps.json
+/Users/nikitalebedev/Desktop/Control_Work/Example/bin/Debug/net7.0/Example.runtimeconfig.json
+/Users/nikitalebedev/Desktop/Control_Work/Example/bin/Debug/net7.0/Example.dll
+/Users/nikitalebedev/Desktop/Control_Work/Example/bin/Debug/net7.0/Example.pdb
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/Example.csproj.AssemblyReference.cache
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/Example.AssemblyInfoInputs.cache
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/Example.AssemblyInfo.cs
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/Example.csproj.CoreCompileInputs.cache
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/Example.dll
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/refint/Example.dll
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/Example.pdb
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/Example.genruntimeconfig.cache
+/Users/nikitalebedev/Desktop/Control_Work/Example/obj/Debug/net7.0/ref/Example.dll
